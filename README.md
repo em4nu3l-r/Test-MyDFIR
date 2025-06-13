@@ -15,7 +15,7 @@ My journey has led me to cybersecurity, and I am now excited to enter into this 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/em4nu3l-r/Home-Lab/tree/main">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -56,5 +56,5 @@ My journey has led me to cybersecurity, and I am now excited to enter into this 
 </div>
 
 ## Projects
-- Detection Lab
+- Home Lab
 - SOC Automation Project
