@@ -56,5 +56,5 @@ My journey has led me to cybersecurity, and I am now excited to enter into this 
 </div>
 
 ## Projects
-- Home Lab
+- <a href="https://github.com/em4nu3l-r/Home-Lab/tree/main">Home Lab</a>
 - SOC Automation Project
